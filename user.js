@@ -6,6 +6,7 @@
 // @author       sebmasc
 // @match        https://jira.unity.pl/browse/*
 // @grant        PUBLIC
+// @updateURL	 https://raw.githubusercontent.com/sebmasc/jira_time_spend/master/user.js
 // ==/UserScript==
 
 (function() {
