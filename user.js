@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         JIRA Time Spend
 // @namespace    https://jira.unity.pl/
-// @version      1.0
+// @version      1.1
 // @description  show timeSpend for all user for issue API: https://docs.atlassian.com/jira/REST/cloud/#api/2/
 // @author       sebmasc
 // @match        https://jira.unity.pl/browse/*
