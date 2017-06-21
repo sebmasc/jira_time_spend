@@ -5,7 +5,7 @@
 // @description  show timeSpend for all user for issue API: https://docs.atlassian.com/jira/REST/cloud/#api/2/
 // @author       sebmasc
 // @match        https://jira.unity.pl/browse/*
-// @grant        none
+// @grant        PUBLIC
 // ==/UserScript==
 
 (function() {
